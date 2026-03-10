@@ -1,0 +1,2 @@
+# Design-and-implement-a-scalable-REST-API-capable-of-handling-10-000-RPS.
+Designed and implemented a high-performance REST API capable of handling 10,000+ requests per second using Node.js and Fastify. Integrated PostgreSQL with connection pooling, Redis caching for faster response times, and rate limiting for request control. Docker was used for containerization and Swagger for API documentation.
